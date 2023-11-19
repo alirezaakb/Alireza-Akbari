@@ -1,4 +1,4 @@
 # Alireza-Akbari
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaakb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezaakb)](https://github.com/anuraghazra/github-readme-stats)
